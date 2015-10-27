@@ -7,4 +7,4 @@ Speakers: To add your content, fork this repository, add your stuff, and send us
 
 For instance, if your talk was "Cirrostratus Are The Best Clouds", create a folder called "Cirrostratus-Are-The-Best-Clouds". Consider adding a Readme.md file if you'd like to link to any other content for attendees to look at.
 
-_Note: This is provided as a service to the community and is in no way an official communication from the CloudDevelop conference or its staff._
+_Note: This is provided as a service to the community. CloudDevelop speakers own and license their own content. Thank them :)._
