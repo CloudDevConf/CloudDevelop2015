@@ -1,7 +1,7 @@
 #Making Infrastructure S'mores With Chef
 Presented on October 23, 2015 at CloudDevelop in Columbus, OH
 
-Matt Stratton | []@mattstratton](https://twitter.com/mattstratton) | http://www.mattstratton.io | http://www.arresteddevops.com
+Matt Stratton | [@mattstratton](https://twitter.com/mattstratton) | http://www.mattstratton.io | http://www.arresteddevops.com
 
 ##Abstract
 
